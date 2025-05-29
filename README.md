@@ -6,9 +6,9 @@ My projects from the SHAI Data Science track.
 
 ## Projects
 
-1.  [911 Calls Data Project](#1-911-calls-data-project)
-2.  [Olympic Data Analysis](#2-olympic-data-analysis)
-3.  [Ames Housing Data Analysis & Hypothesis Testing](#3-ames-housing-data-analysis--hypothesis-testing)
+1.  [911 Calls Data Project](https://github.com/iHakawaTi/SHAI/blob/main/911_Calls_Data_Project.ipynb)
+2.  [Olympic Data Analysis](https://github.com/iHakawaTi/SHAI/blob/main/Olympic.ipynb)
+3.  [Ames Housing Data Analysis & Hypothesis Testing](https://github.com/iHakawaTi/SHAI/blob/main/Project_2.ipynb)
 4.  [Income Classification Analysis](https://github.com/iHakawaTi/SHAI/blob/main/Project_3.ipynb)
 
 ---
