@@ -40,4 +40,3 @@ My projects from the SHAI Data Science track.
 * **Focus:** Classification of individuals' income levels based on factors such as education and other demographic data. This project explores patterns linking these attributes to income.
 
 ---
-
