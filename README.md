@@ -41,8 +41,3 @@ My projects from the SHAI Data Science track.
 
 ---
 
-## How to Use
-
-1.  Clone: `git clone https://github.com/iHakawaTi/SHAI.git`
-2.  Navigate: `cd SHAI`
-3.  Open notebooks in Jupyter.
